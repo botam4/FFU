@@ -18,6 +18,10 @@ This is a DIY project to develop the MFU filament management unit that helps upg
 - Assembly video: 
 - Orca Slicer configuration video: 
 
+### Support
+
+- Facebook Group: [MFU Support](https://www.facebook.com/share/g/17svbKkSMG/)
+
 ---
 
 ## Tiếng Việt
@@ -33,3 +37,7 @@ This is a DIY project to develop the MFU filament management unit that helps upg
 
 - Video lắp ráp: 
 - Video cấu hình Orca Slicer:
+
+### Hỗ Trợ
+
+- Group Facebook: [MFU Support](https://www.facebook.com/share/g/17svbKkSMG/)
