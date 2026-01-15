@@ -1,6 +1,5 @@
 # MFU - Multi Filament Unit
 
-[English](#english) | [Tiếng Việt](#tiếng-việt)
 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=XXXXXXXXXXXX)
 
 ---
