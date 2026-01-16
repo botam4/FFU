@@ -1,4 +1,4 @@
-# MFU - Multi Filament Unit
+# FFU - Fpvfixit Filament Unit
 
 [D𝒐𝒏𝒂𝒕𝒆 𝒗𝒊𝒂 𝑷𝒂𝒚𝑷𝒂𝒍](https://paypal.me/fpvfixit)
 
