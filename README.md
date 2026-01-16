@@ -6,6 +6,7 @@
 ---
 
 ## English
+<img width="1016" height="820" alt="image" src="https://github.com/user-attachments/assets/cab6dce4-9035-4713-9b5e-3d8cd4222d7c" />
 
 This is a DIY project to develop the MFU filament management unit that helps upgrade 3D printers to multi-color printing. The first version supports 4 colors, with future updates expanding up to 24 colors.
 
