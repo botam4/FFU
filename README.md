@@ -22,6 +22,6 @@ This is a DIY project to develop the MFU filament management unit that helps upg
 
 ### Support
 
-- Facebook Group: [MFU Support](https://www.facebook.com/share/g/17svbKkSMG/)
+- Facebook Group: [MFU Support](https://discord.gg/vSY3dskxgM)
 
 ---
